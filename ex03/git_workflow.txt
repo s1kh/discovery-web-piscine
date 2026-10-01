@@ -1,0 +1,4 @@
+1. Edit file: Modify or create files in the working directory.
+2. Stage file: Run 'git add <filename>' to move changes to the staging area.
+3. Commit file: Run 'git commit -m "message"' to record snapshots to local history.
+4. Push changes: Run 'git push origin main' to send local commits to GitHub.

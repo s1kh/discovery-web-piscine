@@ -1,0 +1,52 @@
+.:
+total 24
+drwxrwxr-x 6 kali kali 4096 Oct  1 06:54 .
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:57 ..
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:53 archive
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 project
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 projects
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:53 tools
+
+./archive:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:53 .
+drwxrwxr-x 6 kali kali 4096 Oct  1 06:54 ..
+
+./project:
+total 12
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 .
+drwxrwxr-x 6 kali kali 4096 Oct  1 06:54 ..
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 web
+
+./project/web:
+total 12
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 .
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 ..
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:54 backend
+
+./project/web/backend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:54 .
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 ..
+
+./projects:
+total 12
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 .
+drwxrwxr-x 6 kali kali 4096 Oct  1 06:54 ..
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 web
+
+./projects/web:
+total 12
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 .
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 ..
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:54 frontend
+
+./projects/web/frontend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:54 .
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:54 ..
+
+./tools:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:53 .
+drwxrwxr-x 6 kali kali 4096 Oct  1 06:54 ..
